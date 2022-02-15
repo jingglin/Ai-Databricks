@@ -1,0 +1,3 @@
+[submodule "Ai-Common"]
+	path = Ai-Common
+	url = https://github.com/jingglin/Ai-Common.git
